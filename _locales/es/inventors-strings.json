@@ -1,0 +1,18 @@
+{
+    "inventors.servoRun180|block": "fijar pin %pin servo a %degree=protractorPicker grados",
+    "inventors.servoRun360|block": "pin $pin rotar servo $dir a $speed \\% velocidad",
+    "inventors.ws2812Init|block": "pin $pin $num RGB LEDs",
+    "inventors.ws2812SBrightness|block": "Brillo RGB LEDs %brightness",
+    "inventors.ws2812LedRange|block": "leds del %from al %to",
+    "inventors.ws2812SetIndexColor|block": "RGB LEDs %index mostrar color %color",
+    "inventors.ws2812ShowColor|block": "mostrar color %color",
+    "inventors.ws2812Off|block": "borrar todos los RGB LEDs",
+    "inventors.ws2812Shift|block": "desplazar píxeles en %offset",
+    "inventors.ws2812Rotate|block": "rotar píxeles en %offset",
+    "inventors.ws2812Rainbow|block": "RGB LEDs %start to %end muesta el color degradado de %startHue a %endHue",
+    "inventors.getWs2812Color|block": "rojo %red verde %green azul %blue",
+    
+    "inventors|block": "Inventors Kit",
+    "{id:category}inventors": "Inventors Kit",
+    "{id:group}Servo": "Servo",
+}
