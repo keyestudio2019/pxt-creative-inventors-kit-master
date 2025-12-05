@@ -8,11 +8,11 @@
     },
     "files": [
         "README.md",
-        "Inventors.ts",
-        "_locales/zh-cn/Inventors-strings.json",
-        "_locales/zh-cn/Inventors-jsdoc-strings.json",
-        "_locales/es/Inventors-strings.json",
-        "_locales/es/Inventors-jsdoc-strings.json"
+        "inventors.ts",
+        "_locales/zh-cn/inventors-strings.json",
+        "_locales/zh-cn/inventors-jsdoc-strings.json",
+        "_locales/es/inventors-strings.json",
+        "_locales/es/inventors-jsdoc-strings.json"
     ],
     "testFiles": [
         "test.ts"
