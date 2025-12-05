@@ -1,10 +1,10 @@
 /**
- * inventors blocks
+ * Inventors blocks
  */
 
-//% weight=100 color=#df6721 icon="\uf185" block="Inventors Kit"
+//% weight=100 color=#df6721 icon="\uf185" block="Inventors"
 //% groups="['Servo', 'RGB']"
-namespace inventors {
+namespace Inventors {
     export enum MotorDirection {
         //% block="CW"
         CW = 0x00,
