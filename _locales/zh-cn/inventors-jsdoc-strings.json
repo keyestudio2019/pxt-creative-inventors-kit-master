@@ -1,15 +1,15 @@
 {
-    "inventors": "",
-    "inventors.servoRun180": "设置180°舵机转动的角度，设置范围0~180°",
-    "inventors.servoRun360": "设置360°舵机正反转的速度，设置范围0~100",
-    "inventors.ws2812Init": "设置RGB的灯总数",
-    "inventors.ws2812SBrightness": "设置RGB灯的亮度值",
-    "inventors.ws2812LedRange": "起始灯号到结束灯号",
-    "inventors.ws2812SetIndexColor": "设置指定灯号的显示颜色",
-    "inventors.ws2812ShowColor": "设置所有灯号的显示颜色",
-    "inventors.ws2812Off": "设置RGB灯全部熄灭",
-    "inventors.ws2812Shift": "设置灯带上的颜色或状态按照x个单位移动、变换。",
-    "inventors.ws2812Rotate": "设置灯带上的颜色或状态按照x个单位循环移动、变换。",
-    "inventors.ws2812Rainbow": "设置RGB灯显示渐变颜色；设置范围1~360",
-    "inventors.getWs2812Color": "通过三原⾊设置RGB灯的颜⾊"
+    "Inventors": "",
+    "Inventors.servoRun180": "设置180°舵机转动的角度，设置范围0~180°",
+    "Inventors.servoRun360": "设置360°舵机正反转的速度，设置范围0~100",
+    "Inventors.ws2812Init": "设置RGB的灯总数",
+    "Inventors.ws2812SBrightness": "设置RGB灯的亮度值",
+    "Inventors.ws2812LedRange": "起始灯号到结束灯号",
+    "Inventors.ws2812SetIndexColor": "设置指定灯号的显示颜色",
+    "Inventors.ws2812ShowColor": "设置所有灯号的显示颜色",
+    "Inventors.ws2812Off": "设置RGB灯全部熄灭",
+    "Inventors.ws2812Shift": "设置灯带上的颜色或状态按照x个单位移动、变换。",
+    "Inventors.ws2812Rotate": "设置灯带上的颜色或状态按照x个单位循环移动、变换。",
+    "Inventors.ws2812Rainbow": "设置RGB灯显示渐变颜色；设置范围1~360",
+    "Inventors.getWs2812Color": "通过三原⾊设置RGB灯的颜⾊"
 }

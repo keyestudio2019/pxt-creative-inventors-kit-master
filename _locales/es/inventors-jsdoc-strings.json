@@ -1,15 +1,15 @@
 {
-    "inventors": "",
-    "inventors.servoRun180": "Establezca el ángulo de un servomotor de 180°, rango: 0~180°.",
-    "inventors.servoRun360": "Establezca la velocidad de avance y retroceso de un servomotor de 360°, rango: 0~100.",
-    "inventors.ws2812Init": "Establezca el número total de luces RGB.",
-    "inventors.ws2812SBrightness": "Establece el brillo de las luces RGB.",
-    "inventors.ws2812LedRange": "Configure el número de la luz inicial y final para las luces RGB.",
-    "inventors.ws2812SetIndexColor": "Establece el color de visualización para un número de led específico.",
-    "inventors.ws2812ShowColor": "Configure el color de visualización para todos los leds.",
-    "inventors.ws2812Off": "Apague todos los leds RGB.",
-    "inventors.ws2812Shift": "Mueve o transforma el color o estado de la tira de led en x unidades.",
-    "inventors.ws2812Rotate": "Alterna el color o el estado de la tira de leds incrementando x unidades.",
-    "inventors.ws2812Rainbow": "Configure los leds RGB para mostrar colores degradados; rango: 1~360.",
-    "inventors.getWs2812Color": "Configure los colores de luz RGB utilizando colores primarios (rojo, verde, azul)."
+    "Inventors": "",
+    "Inventors.servoRun180": "Establezca el ángulo de un servomotor de 180°, rango: 0~180°.",
+    "Inventors.servoRun360": "Establezca la velocidad de avance y retroceso de un servomotor de 360°, rango: 0~100.",
+    "Inventors.ws2812Init": "Establezca el número total de luces RGB.",
+    "Inventors.ws2812SBrightness": "Establece el brillo de las luces RGB.",
+    "Inventors.ws2812LedRange": "Configure el número de la luz inicial y final para las luces RGB.",
+    "Inventors.ws2812SetIndexColor": "Establece el color de visualización para un número de led específico.",
+    "Inventors.ws2812ShowColor": "Configure el color de visualización para todos los leds.",
+    "Inventors.ws2812Off": "Apague todos los leds RGB.",
+    "Inventors.ws2812Shift": "Mueve o transforma el color o estado de la tira de led en x unidades.",
+    "Inventors.ws2812Rotate": "Alterna el color o el estado de la tira de leds incrementando x unidades.",
+    "Inventors.ws2812Rainbow": "Configure los leds RGB para mostrar colores degradados; rango: 1~360.",
+    "Inventors.getWs2812Color": "Configure los colores de luz RGB utilizando colores primarios (rojo, verde, azul)."
 }
