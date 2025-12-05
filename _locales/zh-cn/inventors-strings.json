@@ -1,0 +1,18 @@
+{
+    "inventors.servoRun180|block": "设置 %pin 引脚伺服舵机为 %degree=protractorPicker 度",
+    "inventors.servoRun360|block": "设置引脚 $pin 以 $speed \\%的速度 $dir",
+    "inventors.ws2812Init|block": "设置引脚 $pin 灯总数 $num",
+    "inventors.ws2812SBrightness|block": "灯带亮度为 %brightness",
+    "inventors.ws2812LedRange|block": "灯号从 %from 到 %to",
+    "inventors.ws2812SetIndexColor|block": "设置 灯号%index 显示颜色%color",
+    "inventors.ws2812ShowColor|block": "显示颜色 %color",
+    "inventors.ws2812Off|block": "全部熄灭",
+    "inventors.ws2812Shift|block": "移动 %offset 单位",
+    "inventors.ws2812Rotate|block": "循环移动 %offset 单位",
+    "inventors.ws2812Rainbow|block": "灯号 %start 到 %end 显⽰渐变颜⾊ ⾊调从 %startHue 到 %endHue",
+    "inventors.getWs2812Color|block": "红 %red 绿 %green 蓝 %blue",
+    
+    "inventors|block": "Inventors",
+    "{id:category}inventors": "Inventors",
+    "{id:group}Servo": "舵机",
+}

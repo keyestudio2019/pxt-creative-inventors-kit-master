@@ -1,0 +1,28 @@
+{
+    "name": "Inventors",
+    "version": "1.0.6",
+    "description": "Creative Inventors Kit for micro:bit is a inventors platform based on the micro:bit controller.",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "inventors.ts",
+        "_locales/zh-cn/inventors-strings.json",
+        "_locales/zh-cn/inventors-jsdoc-strings.json",
+        "_locales/es/inventors-strings.json",
+        "_locales/es/inventors-jsdoc-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "7.0.57",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}
